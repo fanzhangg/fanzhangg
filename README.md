@@ -1,6 +1,7 @@
 ### Hi, I am Fan Zhang 👋
 
 Selected projects:
+
 🎹 [Chord Master](https://fanzhangg.github.io/chord-master/): Build your chord progression
 
 🎬 [Watch Together](https://watch-together-4iso.onrender.com/): Decide the next movie for your movie night with your best one
