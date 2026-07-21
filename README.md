@@ -5,6 +5,7 @@ I am interested in building LLM inference platform and runtime at production sca
 Selected projects:
 
 - [vllm-neuron](https://github.com/fanzhangg/vllm-neuron): Run vllm on AWS Neuron hardware
+- [nano-kube-llm-server](https://github.com/fanzhangg/nano-kube-llm-server): A demo for running LLM inference server on Kubernetes cluster
 - [Chord Master](https://fanzhangg.github.io/chord-master/): Build your chord progression
 
 - [Watch Together](https://watch-together-4iso.onrender.com/): Decide the next movie for your movie night with your best one
