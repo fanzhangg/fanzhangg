@@ -1,5 +1,7 @@
 ### Hi, I am Fan Zhang 👋
 
+I am interested in building LLM inference platform and runtime at production scale.
+
 Selected projects:
 
 - 🎹 [Chord Master](https://fanzhangg.github.io/chord-master/): Build your chord progression
