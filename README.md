@@ -1,6 +1,6 @@
 ### Hi, I am Fan Zhang 👋
 
-I am interested in building LLM inference platform and runtime at production scale.
+I am interested in building LLM inference platform and runtime at production scale. In my spare time, I like to build small tools for my hobbies: Music, Movie, and Board Games.
 
 Selected projects:
 
